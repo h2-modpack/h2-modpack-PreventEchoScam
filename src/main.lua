@@ -48,7 +48,7 @@ end
 public.definition = {
     id       = "PreventEchoScam",
     name     = "Prevent Echo Scam",
-    category = "RunModifiers",
+    category = "Run Modifiers",
     group    = "NPCs & Routing",
     tooltip  = "Prevents Echo scam by blocking both minibosses from spawning at room 3.",
     default  = false,
